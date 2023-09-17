@@ -1,0 +1,31 @@
+E:\Desktop\python project\Open ports project\Open ports project\bin\Debug\net7.0\appsettings.Development.json
+E:\Desktop\python project\Open ports project\Open ports project\bin\Debug\net7.0\appsettings.json
+E:\Desktop\python project\Open ports project\Open ports project\bin\Debug\net7.0\Open ports project.staticwebassets.runtime.json
+E:\Desktop\python project\Open ports project\Open ports project\bin\Debug\net7.0\Open ports project.exe
+E:\Desktop\python project\Open ports project\Open ports project\bin\Debug\net7.0\Open ports project.deps.json
+E:\Desktop\python project\Open ports project\Open ports project\bin\Debug\net7.0\Open ports project.runtimeconfig.json
+E:\Desktop\python project\Open ports project\Open ports project\bin\Debug\net7.0\Open ports project.dll
+E:\Desktop\python project\Open ports project\Open ports project\bin\Debug\net7.0\Open ports project.pdb
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\Open ports project.csproj.AssemblyReference.cache
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\Open ports project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\Open ports project.AssemblyInfoInputs.cache
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\Open ports project.AssemblyInfo.cs
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\Open ports project.csproj.CoreCompileInputs.cache
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\Open ports project.MvcApplicationPartsAssemblyInfo.cache
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\Open ports project.RazorAssemblyInfo.cache
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\Open ports project.RazorAssemblyInfo.cs
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\staticwebassets\msbuild.Open ports project.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\staticwebassets\msbuild.build.Open ports project.props
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Open ports project.props
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Open ports project.props
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\staticwebassets.build.json
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\staticwebassets.development.json
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\scopedcss\bundle\Open ports project.styles.css
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\scopedcss\projectbundle\Open ports project.bundle.scp.css
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\Open ports project.dll
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\refint\Open ports project.dll
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\Open ports project.pdb
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\Open ports project.genruntimeconfig.cache
+E:\Desktop\python project\Open ports project\Open ports project\obj\Debug\net7.0\ref\Open ports project.dll
