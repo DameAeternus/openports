@@ -1,10 +1,15 @@
-﻿@page
-@model IndexModel
-@{
-    ViewData["Title"] = "Home page";
-}
+﻿
+<form asp-action="Scan" method="post">
+    <label for="ip">Enter IP: </label>
+    <input type="text" id="ip" name="ip" placeholder="192.168.1" /><br />
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <label for="ports">Enter Ports (comma-separated): </label>
+    <input type="text" id="ports" name="ports" placeholder="80,443,22,25" /><br />
+
+    <input type="submit" value="Scan" />
+</form>
+
+<div>
+    <h3>Scan Result</h3>
+    <p>@ViewData["Result"]</p>
 </div>

@@ -1,20 +1,22 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
+using Open_ports_project;  // Add the appropriate namespace
 
-namespace Open_ports_project.Pages
+public class HomeController : Controller
 {
-    public class IndexModel : PageModel
+    public IActionResult Index()
     {
-        private readonly ILogger<IndexModel> _logger;
+        return View();
+    }
 
-        public IndexModel(ILogger<IndexModel> logger)
-        {
-            _logger = logger;
-        }
+    [HttpPost]
+    public IActionResult Scan(string ip, string ports)
+    {
+        // Call the Python script using the PythonScriptRunner
+        string result = PythonScriptRunner.RunScript("E:\\Desktop\\python project\\scan.py", $"{ip} {ports}");
 
-        public void OnGet()
-        {
+        ViewData["Result"] = result;
 
-        }
+        return View("ScanResult");
     }
 }
+
