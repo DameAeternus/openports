@@ -10,6 +10,8 @@ def scan_port(ip, port):
     try:
         sock.connect((ip, port))
         print(f"Port {port} on {ip} is open")
+#       build a string
+#       return
     except socket.error:
         pass
     finally:

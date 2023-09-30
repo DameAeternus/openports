@@ -16,7 +16,7 @@ function App() {
   const handleScan = () => {
     const portList = ports.split(',').map(port => parseInt(port, 10));
 
-    axios.post('http://localhost:3000/scan', { ip, portList })
+    axios.get(`http://localhost:8000/?ip=${ip}&port=${ports}`, )
         .then(response => {
           console.log('Scan result:', response.data);
         })
